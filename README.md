@@ -16,6 +16,8 @@
 
 ## :star2: About the Project
 
+<p>Here i store all my functions and scripts that i want to share with the world have fun take a look</p>
+
 ## :handshake: Contact
 
 FastAsFack - -
